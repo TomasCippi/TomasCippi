@@ -1,4 +1,6 @@
-### ¡Hola! 👋
+# ¡Hola! 👋
+
+_Mi Nombre es Tomas Cippitelli y tengo 13 años y desarrolo paginas web, apps y juegos_
 <!--
 **TomasCippi/TomasCippi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
