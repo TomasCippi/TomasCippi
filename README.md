@@ -3,7 +3,7 @@
   <a href="https://github.com/TomasCippi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TomasCippi&show_icons=true&title_color=0053ff&text_color=ffffff&bg_color=303243&border_color=ffffff"/>
 </div>
-<div>
+<div align='right'>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasCippi&layout=compact&langs_count=7&title_color=0053ff&text_color=ffffff&bg_color=303243&border_color=ffffff">  
 </div>
 <div style="display: inline_block"><br>
