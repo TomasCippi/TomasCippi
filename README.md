@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-- 🇦🇷 Argentine, 18 years old, based in Buenos Aires
+-  ![Argentina](https://flagcdn.com/16x12/ar.png)  Argentine, 18 years old, based in Buenos Aires
 - 💻 Self-taught developer — I started coding at 13 out of pure curiosity and never stopped
 - 🔥 Passionate about technology, problem solving and building things that actually work
 - 📚 I'm always learning — new languages, frameworks, tools — I genuinely enjoy the process
