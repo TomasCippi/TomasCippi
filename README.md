@@ -1,7 +1,7 @@
-<h1 align="center"><b>Hi, I'm Tomas Cippitelli</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>
+<h1 align="center"><b>Hi, I'm Tomás Cippitelli</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Self-taught+since+age+13;Always+learning+new+things" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;18+years+old;From+Buenos+Aires%2C+Argentina+%F0%9F%87%A6%F0%9F%87%B7;Self-taught+since+age+13;Always+learning+new+things" alt="Typing SVG"/>
 </p>
 
 ---
