@@ -1,6 +1,67 @@
-# Tomás Cippitelli
+# Hi, I'm Tomas Cippitelli
 
-**`Full-stack developer`**
+**`Full Stack Developer`**
 
-Hi, my name is Tomás Cippitelli. I'm a 17-year-old programmer from Argentina. I'm passionate about technology and work across all areas of development — from websites and mobile apps to games and full-stack projects. I'm always looking to expand my skills and take on new challenges.
+My name is Tomas Marino Cippitelli Caro, I'm 18 years old and I'm from Buenos Aires, Argentina 🇦🇷.
+I started coding at 13, completely self-taught, and I haven't stopped since. I'm passionate about building real things — websites, bots, tools — and I love learning new technologies and taking on new challenges.
+Currently looking for my first professional opportunity in tech.
+
 ---
+
+### 🤖 Languages & Technologies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+### 📊 Stats
+
+
+
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+---
+
+### 📫 Contact
+
+- 📧 tomas.mcippitelli@gmail.com
+- 💼 [linkedin.com/in/tomas-cippitelli-025b36355](https://linkedin.com/in/tomas-cippitelli-025b36355)
+- 📱 +54 9 11 5863-3864
