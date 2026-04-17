@@ -1,65 +1,14 @@
-# Hi, I'm Tomas Cippitelli
-
-**`Full Stack Developer`**
-
-My name is Tomas Marino Cippitelli Caro, I'm 18 years old and I'm from Buenos Aires, Argentina 🇦🇷.
-I started coding at 13, completely self-taught, and I haven't stopped since. I'm passionate about building real things — websites, bots, tools — and I love learning new technologies and taking on new challenges.
-Currently looking for my first professional opportunity in tech.
-
----
+<h1 align="center"><b>Hi , I'm Tomas Cippitelli </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ### 🤖 Languages & Technologies
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
 ### 📊 Stats
-
-
-
-
-  
-
-  
-
-
-
-
-
-
-
-
-
-
----
-
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TomasCippi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TomasCippi&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 ### 📫 Contact
 
 - 📧 tomas.mcippitelli@gmail.com
