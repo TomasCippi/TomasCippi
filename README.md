@@ -1,16 +1,57 @@
-<h1 align="center"><b>Hi , I'm Tomas Cippitelli </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Tomas Cippitelli</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>
 
-### 🤖 Languages & Technologies
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Self-taught+since+age+13;Always+learning+new+things" alt="Typing SVG"/>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🇦🇷 18 years old, from Buenos Aires, Argentina
+- 💻 Self-taught developer with 5+ years of experience
+- 🔥 Passionate about building real things — websites, bots, and tools
+- 🚀 Currently looking for my first professional opportunity in tech
+- 🌐 Built and deployed a real website for a local library: [bibliotecapueyrredonsud.com.ar](https://bibliotecapueyrredonsud.com.ar)
+- 🤖 Built a WhatsApp bot in Python for my school
+- 🌍 Intermediate English — technical reading & professional conversation
+
+---
+
+### 🛠️ Languages & Technologies
+
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS3" title="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img align="left" alt="React" title="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+<img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
+<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+<img align="left" alt="Django" title="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<img align="left" alt="Bash" title="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"/>
+<img align="left" alt="SQL" title="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+
+<br/>
+<br/>
+
+---
 
 ### 📊 Stats
+
 <p align="center">
-<a href="https://github.com/TomasCippi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TomasCippi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasCippi&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/TomasCippi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TomasCippi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasCippi&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
+
+---
+
 ### 📫 Contact
 
-- 📧 tomas.mcippitelli@gmail.com
-- 💼 [linkedin.com/in/tomas-cippitelli-025b36355](https://linkedin.com/in/tomas-cippitelli-025b36355)
-- 📱 +54 9 11 5863-3864
+<p align="left">
+  <a href="mailto:tomas.mcippitelli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/tomas-cippitelli-025b36355"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/TomasCippi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
