@@ -8,14 +8,12 @@
 
 ### 👨‍💻 About Me
 
-- 🇦🇷 18 years old, from Buenos Aires, Argentina
-- 💻 Self-taught developer with 5+ years of experience
-- 🔥 Passionate about building real things — websites, bots, and tools
-- 🚀 Currently looking for my first professional opportunity in tech
-- 🌐 Built and deployed a real website for a local library: [bibliotecapueyrredonsud.com.ar](https://bibliotecapueyrredonsud.com.ar)
-- 🤖 Built a WhatsApp bot in Python for my school
-- 🌍 Intermediate English — technical reading & professional conversation
-
+- 🇦🇷 Argentine, 18 years old, based in Buenos Aires
+- 💻 Self-taught developer — I started coding at 13 out of pure curiosity and never stopped
+- 🔥 Passionate about technology, problem solving and building things that actually work
+- 📚 I'm always learning — new languages, frameworks, tools — I genuinely enjoy the process
+- 🚀 Looking for my first professional opportunity to grow in a real team environment
+- 🌍 Intermediate English — comfortable reading technical docs and holding professional conversations
 ---
 
 ### 🛠️ Languages & Technologies
