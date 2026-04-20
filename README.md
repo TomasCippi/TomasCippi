@@ -34,15 +34,12 @@
 <br/>
 
 ---
-
 ### 📊 Stats
-
 ### 📊 Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TomasCippi&show_icons=true&theme=algolia&count_private=true&cache_seconds=86400"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=TomasCippi&theme=algolia&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats-lake-sigma-82.vercel.app/api?username=TomasCippi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-lake-sigma-82.vercel.app/api/top-langs/?username=TomasCippi&layout=compact&langs_count=8&theme=algolia"/>
 </p>
-
 ---
 
 ### 📫 Contact
