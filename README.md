@@ -12,7 +12,6 @@
 - 💻 Self-taught developer — I started coding at 13 out of pure curiosity and never stopped
 - 🔥 Passionate about technology, problem solving and building things that actually work
 - 📚 I'm always learning — new languages, frameworks, tools — I genuinely enjoy the process
-- 🚀 Looking for my first professional opportunity to grow in a real team environment
 - 🌍 Intermediate English — comfortable reading technical docs and holding professional conversations
 ---
 
