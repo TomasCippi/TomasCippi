@@ -44,7 +44,8 @@
 ### 📫 Contact
 
 <p align="left">
-  <a href="mailto:tomas.mcippitelli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/tomas-cippitelli-025b36355"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/TomasCippi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+📧 tomas.mcippitelli@gmail.com
